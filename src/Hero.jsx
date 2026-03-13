@@ -9,7 +9,7 @@ function Hero(){
       style={{ backgroundImage: `url(${applebg})` }}
     >
 
-      <h1 className="text-5xl font-bold mb-4">
+      <h1 className="text-5xl font-bold mb-4" >
         Welcome to Apple
       </h1>
 
