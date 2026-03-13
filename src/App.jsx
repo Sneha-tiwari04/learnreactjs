@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Hero from "./Hero"
 import Login from "./Login"
@@ -15,4 +16,17 @@ function App() {
   )
 }
 
+=======
+import TravelCards from "./Travelcards"
+function App(){
+  return(
+  
+    <>
+    
+  
+    <TravelCards/>
+    </>
+  )
+}
+>>>>>>> 4939e9a82481aa42c0aae76eca9f3a4d61965e5c
 export default App
